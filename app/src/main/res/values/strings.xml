@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Justin Books</string>
+    <string name="search_bar_hints">Search books and authors</string>
 </resources>
